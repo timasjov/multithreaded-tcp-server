@@ -1,6 +1,6 @@
 # Simple multithreaded TCP server
 
-Server is implemented in `Java`, clients in `Python` and `Groovy`.
+Server is implemented in `Java`, clients in `Python` and `Groovy`. It is one of the homeworks for [Distributed Systems](https://courses.cs.ut.ee/2013/scicomp/fall) course in University of Tartu.
 
 ### Requirements
 Running all components require that following software (*) is installed on target computers.
